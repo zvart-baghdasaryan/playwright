@@ -1,11 +1,11 @@
 **#Setup:**
 1.Clone the repo
-git clone https://github.com/zvart-baghdasaryan/playwright.git
-cd your-repo
+- git clone https://github.com/zvart-baghdasaryan/playwright.git
+- cd your-repo
 2.Install dependencies:
-npm install
+- npm install
 3. Running tests
-npx playwright test
+- npx playwright test
 
 **#Approach:**
 this suite uses Playwright with Typescript to verify.
