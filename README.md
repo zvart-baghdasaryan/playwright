@@ -5,6 +5,7 @@
 
 2.Install dependencies:
 - npm install
+
 3. Running tests
 - npx playwright test
 
